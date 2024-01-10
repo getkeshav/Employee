@@ -1,0 +1,17 @@
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\bin\Debug\net8.0\Employee-Details-main-main.exe
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\bin\Debug\net8.0\Employee-Details-main-main.deps.json
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\bin\Debug\net8.0\Employee-Details-main-main.runtimeconfig.json
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\bin\Debug\net8.0\Employee-Details-main-main.dll
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\bin\Debug\net8.0\Employee-Details-main-main.pdb
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.csproj.AssemblyReference.cache
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.AssemblyInfoInputs.cache
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.AssemblyInfo.cs
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.csproj.CoreCompileInputs.cache
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.csproj.CopyComplete
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.dll
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\refint\Employee-Details-main-main.dll
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.pdb
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\Employee-Details-main-main.genruntimeconfig.cache
+c:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\obj\Debug\net8.0\ref\Employee-Details-main-main.dll

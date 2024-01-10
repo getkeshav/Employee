@@ -1,0 +1,7 @@
+C:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\backend\YourApiProjectName\obj\Debug\net8.0\YourApiProjectName.csproj.AssemblyReference.cache
+C:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\backend\YourApiProjectName\obj\Debug\net8.0\YourApiProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\backend\YourApiProjectName\obj\Debug\net8.0\YourApiProjectName.AssemblyInfoInputs.cache
+C:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\backend\YourApiProjectName\obj\Debug\net8.0\YourApiProjectName.AssemblyInfo.cs
+C:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\backend\YourApiProjectName\obj\Debug\net8.0\YourApiProjectName.csproj.CoreCompileInputs.cache
+C:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\backend\YourApiProjectName\obj\Debug\net8.0\YourApiProjectName.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KeshavKumarMAQSoftwa\Downloads\Employee-Details-main-main\backend\YourApiProjectName\obj\Debug\net8.0\YourApiProjectName.MvcApplicationPartsAssemblyInfo.cache
